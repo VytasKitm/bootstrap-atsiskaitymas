@@ -1,0 +1,9 @@
+
+.carousel-inner {
+    height: 40vh;
+}
+
+.accordion-button:not(.collapsed)::after,
+.accordion-button::after {
+  background-image: unset !important;
+}
